@@ -4,4 +4,9 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 ## Current Progress
 
 ### Arrays
-    [x] Product except Self
+[x] Product except Self
+[x] Top K frequent Elements
+[x]
+
+### Sliding Window
+[x]
