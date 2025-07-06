@@ -1,7 +1,7 @@
 class ListNode {
   constructor(val, next = null) {
     this.val = val;
-    this.next = null;
+    this.next = next;
   }
 }
 function merge2SortedLists(list1, list2) {
