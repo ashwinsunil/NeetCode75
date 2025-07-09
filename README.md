@@ -49,7 +49,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Validate Binary Search Tree
 - [x] Kth Smallest Element in a BST
 - [x] Construct Binary Tree From Preorder And Inorder Traversal
-- [ ] Binary Tree Maximum Path Sum
+- [x] Binary Tree Maximum Path Sum
 - [ ] Serialize and Deserialize Binary Tree
 
 
