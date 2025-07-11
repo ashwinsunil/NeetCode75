@@ -52,4 +52,24 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Binary Tree Maximum Path Sum
 - [x] Serialize and Deserialize Binary Tree
 
+### Heap / Priority Queue
+- [ ] Find Median from data stream
+
+### Backtracking
+- [ ] Combination Sum
+- [ ] Word Search
+
+### Tries
+- [ ] Implement Trie Prefix Tree 
+- [ ] Design Add and search Words Data
+- [ ] Word Search II
+
+### Graphs
+- [ ] Number of islands 
+- [ ] Clone Graph 
+- [ ] Pacific Atlantic Water Flow 
+- [ ] Course Schedule 
+- [ ] Graph Valid Tree 
+- [ ] Number of Connected Components in an undirected Graph 
+
 
