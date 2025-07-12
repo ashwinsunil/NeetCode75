@@ -53,7 +53,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Serialize and Deserialize Binary Tree
 
 ### Heap / Priority Queue
-- [ ] Find Median from data stream
+- [x] Find Median from data stream
 
 ### Backtracking
 - [ ] Combination Sum
