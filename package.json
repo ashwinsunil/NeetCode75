@@ -1,0 +1,26 @@
+{
+  "name": "studyjs",
+  "version": "1.0.0",
+  "description": "Neetcode75 solutions in javascript",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinsunil/NeetCode75.git"
+  },
+  "keywords": [
+    "Competitive",
+    "Programming"
+  ],
+  "author": "Ashwin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinsunil/NeetCode75/issues"
+  },
+  "homepage": "https://github.com/ashwinsunil/NeetCode75#readme",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.3"
+  }
+}
