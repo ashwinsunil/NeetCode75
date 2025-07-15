@@ -31,6 +31,7 @@ function wordSearch(board, word) {
       if (backtracking(i, j, 0)) return true;
     }
   }
+  return false;
 }
 const board = [
   ["a", "b", "c"],
