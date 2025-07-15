@@ -57,7 +57,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 
 ### Backtracking
 - [x] Combination Sum [Solution to Combination Sum](Backtracking/combinationSum.js)
-- [ ] Word Search
+- [x] Word Search
 
 ### Tries
 - [ ] Implement Trie Prefix Tree 
