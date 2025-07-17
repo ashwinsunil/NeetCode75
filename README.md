@@ -61,7 +61,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 
 ### Tries
 - [x] Implement Trie Prefix Tree [Solution to implement Trie](Tries/implementTrie.js) 
-- [ ] Design Add and search Words Data
+- [x] Design Add and search Words Data
 - [ ] Word Search II
 
 ### Graphs
