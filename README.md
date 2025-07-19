@@ -65,7 +65,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Word Search II [Solution for Word Search II](Tries/wordSearchII.js)
 
 ### Graphs
-- [ ] Number of islands 
+- [x] Number of islands [Solution for Number Of islands](Graphs/numberOfIslands.js) 
 - [ ] Clone Graph 
 - [ ] Pacific Atlantic Water Flow 
 - [ ] Course Schedule 
