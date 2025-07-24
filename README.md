@@ -68,7 +68,7 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Number of islands [Solution for Number Of islands](Graphs/numberOfIslands.js) 
 - [x] Clone Graph [Solution for clone graph problem](Graphs/cloneGraph.js)
 - [x] Pacific Atlantic Water Flow [Solution for PacificAtlantic water flow problem](Graphs/pacificAtlanticWaterFlow.js)
-- [ ] Course Schedule 
+- [x] Course Schedule [Solution for course schedule problem](Graphs/courseSchedule.js)
 - [ ] Graph Valid Tree 
 - [ ] Number of Connected Components in an undirected Graph 
 
