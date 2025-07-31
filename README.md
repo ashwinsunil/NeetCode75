@@ -73,3 +73,6 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Number of Connected Components in an undirected Graph [Solution for No of connected components problem](Graphs/countComponents.js)
 - [x] Alien Dictionary [Solution for Alien Dictionary problem](Graphs/alienDictionary.js)
 
+### Dynamic Programming
+- [x] Climb stairs [Solution for Climb Stairs problem](DynamicProgramming/climbingStairs.js)
+
