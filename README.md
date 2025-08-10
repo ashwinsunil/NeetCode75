@@ -77,3 +77,4 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Climb stairs [Solution for Climb Stairs problem](DynamicProgramming/climbingStairs.js)
 - [x] House robber [Solution for House Robber problem](DynamicProgramming/houseRobber.js)
 - [x] House robber II [Solution for House robber II problem](DynamicProgramming/houseRobberII.js)
+- [x] Longest Palindromic Substring [Solution for Longest Palindromic Substring](DynamicProgramming/longestPalindromicSubstring.js)
