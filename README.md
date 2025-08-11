@@ -78,3 +78,4 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] House robber [Solution for House Robber problem](DynamicProgramming/houseRobber.js)
 - [x] House robber II [Solution for House robber II problem](DynamicProgramming/houseRobberII.js)
 - [x] Longest Palindromic Substring [Solution for Longest Palindromic Substring](DynamicProgramming/longestPalindromicSubstring.js)
+- [x] Palindromic substring [Solution for count palindromic substrings problem](DynamicProgramming/palindromicSubstrings.js)
