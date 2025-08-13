@@ -80,3 +80,4 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Longest Palindromic Substring [Solution for Longest Palindromic Substring](DynamicProgramming/longestPalindromicSubstring.js)
 - [x] Palindromic substring [Solution for count palindromic substrings problem](DynamicProgramming/palindromicSubstrings.js)
 - [x] Decode ways [Solution for Decode ways problem](DynamicProgramming/decodeWays.js)
+- [x] Coin Change [Solution for the Coin change problem](DynamicProgramming/coinChange.js)
