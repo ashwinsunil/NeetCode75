@@ -81,3 +81,4 @@ This Repository is used to track my NeetCode Blind 75 progress and solution impl
 - [x] Palindromic substring [Solution for count palindromic substrings problem](DynamicProgramming/palindromicSubstrings.js)
 - [x] Decode ways [Solution for Decode ways problem](DynamicProgramming/decodeWays.js)
 - [x] Coin Change [Solution for the Coin change problem](DynamicProgramming/coinChange.js)
+- [x] Maximum Product SubArray [Solution for the Maximum Product subarray problem](DynamicProgramming/maxProductSubarray.js)
